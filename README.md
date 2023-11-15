@@ -10,9 +10,9 @@ Install packages, Run the following commands:
 
 To start Metro, run the following command from the _root_ of your React Native project:
 
-npm start
-i - for ios
-a - for android
+1. npm start
+2. i - for ios
+3. a - for android
 
 # OR
 
